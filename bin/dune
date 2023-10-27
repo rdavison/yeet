@@ -1,0 +1,4 @@
+(executable
+ (public_name yeet)
+ (name main)
+ (libraries yeet))
